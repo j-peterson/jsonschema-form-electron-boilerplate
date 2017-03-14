@@ -1,7 +1,7 @@
 {
-  "name": "json-schema-form-electron-boilerplate",
+  "name": "jsonschema-form-electron-boilerplate",
   "version": "0.0.1",
-  "description": "JSON-schema-form Electron Boilerplate",
+  "description": "React-JSONschema-form Electron Boilerplate",
   "main": "index.js",
   "scripts": {
     "pack": "webpack --config webpack.config.js --progress --profile --colors",

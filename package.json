@@ -2,6 +2,7 @@
   "name": "jsonschema-form-electron-boilerplate",
   "version": "0.0.1",
   "description": "React-JSONschema-form Electron Boilerplate",
+  "repository": "https://github.com/j-peterson/jsonschema-form-electron-boilerplate",
   "main": "index.js",
   "scripts": {
     "pack": "webpack --config webpack.config.js --progress --profile --colors",
